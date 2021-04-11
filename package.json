@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/web-v2/miapp-sass/issues"
   },
-  "homepage": "https://github.com/web-v2/miapp-sass#readme"
+  "homepage": "https://github.com/web-v2/miapp-sass#readme",
+  "dependencies": {
+    "sass": "^1.32.8"
+  }
 }
