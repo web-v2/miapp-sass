@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/web-v2/miapp-sass#readme",
   "dependencies": {
-    "sass": "^1.32.8"
+    "sass": "^1.32.8",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
   }
 }
